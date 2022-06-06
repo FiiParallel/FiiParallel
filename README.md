@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JJParallel
 - 👀 I’m interested in Game Design in Unreal Engine 4.
-- 🌱 I’m currently learning How to use submodules and edit submodules from the main repo.
+- 🌱 I’m currently designing the world in a secret project. >:3
 - 📫 How to reach me @ sumoneplus1@gmail.com
 
 <!---
